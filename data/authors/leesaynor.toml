@@ -1,13 +1,10 @@
 id = "leesaynor"
-
 [email]
-username = "lee.saynor"
 host = "gmail.com"
-
+username = "lee.saynor"
 [name]
 display = "Lee Saynor"
-
 [social]
 email = ""
-facebook  = ""
+facebook = ""
 twitter = "leesaynor"
